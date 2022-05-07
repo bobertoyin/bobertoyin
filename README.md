@@ -13,7 +13,7 @@ When I'm not groaning at Python code or CI/CD builds, I enjoy spending my time c
 
 ### Current Status 📍
 
-* *Gearing up to join [Morse CORP](https://www.morsecorp.com) as a Python SWE co-op for the Spring 2022 semester*  🐉
+* *Working at [Morse CORP](https://www.morsecorp.com) as a Python SWE co-op for the Spring 2022 semester*  🐉
 * *Learning to become an emoji enthusiast, one emote at a time*  🦾
-* *Scheming up a silly personal project with Docker and/or Python*  🐍 🐳
+* *Scheming up a silly personal project with ~~Docker and/or Python~~ Rust!*  🦀
 * *Completing the renovation of my [portfolio site](https://github.com/bobertoyin/bobertoyin.github.io) for the ~~third~~ fourth time*  📐
